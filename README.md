@@ -1,2 +1,0 @@
-# FlaskBase
-Flask base template
